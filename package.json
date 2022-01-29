@@ -1,0 +1,22 @@
+{
+  "name": "is-rahl",
+  "version": "1.0.0",
+  "description": "is name Rahul ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzrahulyadav/is-rahul.git"
+  },
+  "keywords": [
+    "RAHUL"
+  ],
+  "author": "Rahul Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzrahulyadav/is-rahul/issues"
+  },
+  "homepage": "https://github.com/itzrahulyadav/is-rahul#readme"
+}
